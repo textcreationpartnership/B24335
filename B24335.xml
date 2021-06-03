@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The life of one Jacob Boehmen, who although he were a very meane man, yet wrote the most wonderfull deepe knowledge in naturall and divine things that any hath been knowne to doe since the apostles times, and yet never read them, or learned them from any other man, as may be seene in that which followeth : wherein is contained a perfect catalogue of his workes.</title>
+            <title>Life of one Jacob Beohmen. 1644</title>
+            <author>Hotham, Durant, 1617?-1691.</author>
+         </titleStmt>
+         <extent>Approx. 14KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24335</idno><idno type="EEBO-CITATION">11940906</idno>
+  <idno type="VID">196473</idno>
+  <idno type="EEBO-PROQUEST">2240893742</idno>
+  
+            <idno type="STC">Wing H2902</idno>
+            <idno type="OCLC">11940906</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B24335)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 196473)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 230:E16, no 16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The life of one Jacob Boehmen, who although he were a very meane man, yet wrote the most wonderfull deepe knowledge in naturall and divine things that any hath been knowne to doe since the apostles times, and yet never read them, or learned them from any other man, as may be seene in that which followeth : wherein is contained a perfect catalogue of his workes.</title>
+                  <title>Life of one Jacob Beohmen. 1644</title>
+                  <author>Hotham, Durant, 1617?-1691.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by L. N. for Richard Whitaker ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Durant Hotham.  Cf. BLC.</note>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Böhme, Jakob, 1575-1624.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:196473:1"/>
+            <p>
+               <hi>The Life of one</hi> JACOB BOEHMEN: WHO ALTHOUGH HE WERE A Very <hi>Meane</hi> man, yet wrote the <hi>most Wonderfull deepe</hi> knowledge in NATURALL and DIVINE things.</p>
+            <p>That any hath been knowne to doe since the APOSTLES TIMES, and yet never <hi>read</hi> them, or <hi>learned</hi> them from any <hi>other man,</hi> as may be seene in that which followeth.</p>
+            <p>WHEREIN IS CONTAINED A perfect <hi>Catalogue</hi> of his <hi>Workes.</hi>
+            </p>
+            <p>LONDON, Printed by <hi>L. N.</hi> for RICHARD WHITAKER, at the signe of the Kings Armes in <hi>Pauls</hi> Church-yard, 1644. <add>nouemb: 8<seg rend="sup">th</seg>
+               </add>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:196473:2"/>
+            <head>A briefe Relation of the Life and Conversation of JACOB BOEHMEN, after<g ref="char:EOLhyphen"/>wards by learned men called TEUTONICUS.</head>
+            <p>
+               <seg rend="decorInit">I</seg>ACOB BOEHMEN was borne in the yeare 1575. at old <hi>Seidenberg,</hi> about two miles distant from <hi>Gorlitz,</hi> a City lying in Upper <hi>Lusatia,</hi> which is commended in the Writings of learned men: His parents were <hi>Jacob</hi> his father, and <hi>Ursula</hi> his mother, both poore country people. In his youth he kept cattell, and afterwards by the counsell of his friends was sent to Schoole, where he gate to learne to write and reade to<g ref="char:EOLhyphen"/>gether with the feare of God, and after that was put to the Trade of a Shoo-maker; wherein when he became a Master (<hi>Anno</hi> 1594.) he married a mayd, one <hi>Catha<g ref="char:EOLhyphen"/>rine,</hi> the daughter of one <hi>John Kunshman</hi> of <hi>Gorlitz,</hi> a Butcher, with whom he lived peaceably and well thirty yeares, and had by her foure sonnes, who also learned handicrafts.</p>
+            <p>This man, being from his youth up addicted to the feare of God, and being a willing hearer of Sermons, was at length stirred up by that <hi>Speech</hi> and <hi>Promise</hi> of our <hi>Saviours</hi> (<hi>Luke</hi> 11. vers. 13. <hi>Your heavenly Father will give the Holy Spirit to them that aske him for it</hi>) likewise
+<pb facs="tcp:196473:2"/>through the differences and controversies in <hi>Religion</hi> (in which he knew not how to satisfie himselfe) was so mo<g ref="char:EOLhyphen"/>ved, that he in the simplicity of spirit, ardently and un<g ref="char:EOLhyphen"/>cessantly asked, sought and knocked, that he might know the <hi>Truth;</hi> whereby according to the <hi>Divine Drawing</hi> and <hi>Will,</hi> hee was in spirit rapt into the <hi>Holy Saboath;</hi> where he remained seven whole daye by his own confes<g ref="char:EOLhyphen"/>sion in highest <hi>Ioy.</hi> Afterwards, when he came to him<g ref="char:EOLhyphen"/>selfe, and had layd aside the folly of youth, he was dri<g ref="char:EOLhyphen"/>ven by <hi>Divine Zeale</hi> to reprehend very earnestly impu<g ref="char:EOLhyphen"/>dent Scandalous and Blasphemous Speeches, and with<g ref="char:EOLhyphen"/>drew himselfe from all unseemly actions with earnest<g ref="char:EOLhyphen"/>nesse, for the Love of vertue, by which practice and life, seeing it was cleane contrary to the way and course of the world, he became only their scorne and derision; in the meane time he maintained himselfe with the labour of his hands, in the sweat of his browes, till the begin<g ref="char:EOLhyphen"/>ning of the <hi>Sixt Seculum</hi> namely the year 1600, when he was a second time possessed with a <hi>Divine Light</hi> and by a sudden sight of a <hi>Pewter Vessell</hi> he was brought to the inward ground or <hi>Centrum</hi> of the hidden <hi>Nature.</hi> But he yet somewhat mistrusting, went out into an open field, and there beheld the <hi>Wonder-workes</hi> of the Crea<g ref="char:EOLhyphen"/>tor in the Signatures of all created things, very cleerly and manifestly laid open: whereupon he was taken with exceeding <hi>Ioy,</hi> yet held his peace in silence, praised God, and in the meane time contented himselfe therewith.</p>
+            <p>But according to Gods holy counsell, who manageth his work in secret, after ten yeares, <hi>viz. Anno</hi> 1610. through the <hi>Overshadowing</hi> of the <hi>Holy Spirit,</hi> he was a third time touched by God and renewed. Whereupon, when hee became so enlightned, lest so great grace be<g ref="char:EOLhyphen"/>stowed upon him, should slip out of his memory, or he
+<pb facs="tcp:196473:3"/>resist his God, he wrote privately and secretly for him<g ref="char:EOLhyphen"/>selfe, by small meanes, and no bookes at all but only the <hi>Holy Scriptures;</hi> These Workes following, <hi>viz.</hi>
+            </p>
+            <list>
+               <item>
+                  <hi>1. Anno 1612.</hi> He wrote the first Book called <hi>Aurors,</hi> the <hi>Rising of the Sun,</hi> which book (he being accused for being the Au<g ref="char:EOLhyphen"/>thor thereof) was by the Magistrate at <hi>Gorlitz</hi> at Court committed to custody: with command to him that he should henceforth (being an Idiot or simple man) refraine such writing of bookes, that did not belong to his profession and condition. Whereupon he refrained seven yeares, but after<g ref="char:EOLhyphen"/>wards being stirred up againe by the motion of the Holy Spirit of God, and also being incouraged thereunto by the entreaty and desires of some people that feared God, he be<g ref="char:EOLhyphen"/>tooke himselfe to his pen againe, and proceeded in writing and perfected, with good leisure and deliberation, the rest which follow, <hi>viz.</hi>
+               </item>
+               <item>
+                  <hi>2. Anno 1619.</hi> The second Book. Of the <hi>Three Principles,</hi> toge<g ref="char:EOLhyphen"/>ther with an appendix of the Threefold life of Man.</item>
+               <item>
+                  <hi>3. Anno 1620.</hi> A Booke of the <hi>Three-fold life of Man.</hi>
+               </item>
+               <item>
+                  <hi>4. An Answer</hi> to the <hi>40 Questions</hi> of the <hi>Soule,</hi> propounded by Doctor <hi>Balthasar Walterus,</hi> wherein, the first chapter com<g ref="char:EOLhyphen"/>prehendeth a Treatise of the <hi>Turned Eye</hi> or <hi>Philosophique Globe,</hi> withall an addition concerning the Soule, the Image of the Soule, and the <hi>Turba</hi> or destroyeresse of the Image.</item>
+               <item>
+                  <hi>5. Three Books.</hi> The first, of the Incarnation of Jesus Christ. The second of the Suffering, Death, and Resurrection of Christ. The third of the <hi>Tree of Faith.</hi>
+               </item>
+               <item>
+                  <hi>6.</hi> A Booke of <hi>Six Points.</hi>
+               </item>
+               <item>
+                  <hi>7.</hi> A Booke of the Heavenly and Earthly <hi>Mysterium.</hi>
+               </item>
+               <item>
+                  <hi>8.</hi> A Booke of the <hi>Last Times</hi> to <hi>P. K.</hi>
+               </item>
+               <item>
+                  <hi>9. Anno 1621.</hi> A Booke <hi>De Signatura Rerum,</hi> or the <hi>Sgnature</hi> of all things.</item>
+               <item>
+                  <hi>10.</hi> A Consolatory Booke of the foure <hi>Complexions.</hi>
+               </item>
+               <item>
+                  <hi>11.</hi> An Apology to <hi>Balthasar Tilken</hi> in two parts.</item>
+               <item>
+                  <hi>12.</hi> A Consideration upon <hi>Esaias Steefells</hi> Booke.</item>
+               <item>
+                  <hi>13. Anno. 1622</hi> A Booke of true <hi>Repnetance.</hi>
+               </item>
+               <item>
+                  <hi>14.</hi> A Booke of true <hi>Resignation.</hi>
+               </item>
+               <pb facs="tcp:196473:3"/>
+               <item>
+                  <hi>15.</hi> A Booke of <hi>Regeneration.</hi>
+               </item>
+               <item>
+                  <hi>16.</hi> A short <hi>Compendium</hi> of <hi>Repentance.</hi>
+               </item>
+               <item>
+                  <hi>17. Anno 1623.</hi> A Booke of the <hi>Predestination</hi> and <hi>Election</hi> of God.</item>
+               <item>
+                  <hi>18.</hi> The <hi>Mysterium Magnum</hi> upon <hi>Genesis.</hi>
+               </item>
+               <item>
+                  <hi>19. Anno 1624.</hi> A Table of the <hi>Principles</hi> or a <hi>Key</hi> of his writ<g ref="char:EOLhyphen"/>ings to <hi>G. F.</hi> and <hi>I. H.</hi>
+               </item>
+               <item>
+                  <hi>20.</hi> A little Booke of the <hi>Supersensuall Life.</hi>
+               </item>
+               <item>
+                  <hi>(21)</hi> A little Booke of Divine <hi>Contemplation.</hi>
+               </item>
+               <item>
+                  <hi>22.</hi> A Book of the Two <hi>Testaments</hi> of Christ, viz. <hi>Baptisme</hi> and the <hi>Supper</hi> of the Lord.</item>
+               <item>
+                  <hi>23.</hi> A <hi>Dialogue</hi> betweene the enlightned and the unenlightned <hi>Soule.</hi>
+               </item>
+               <item>
+                  <hi>24.</hi> An Apology upon the Booke of true <hi>Repentance,</hi> dericted a<g ref="char:EOLhyphen"/>gainst a <hi>Pasquill</hi> of the principall <hi>Minister</hi> of <hi>Gorlitz</hi> cal<g ref="char:EOLhyphen"/>led <hi>Gregory Rickter.</hi>
+               </item>
+               <item>
+                  <hi>(25)</hi> A Booke of <hi>177. Theosophick</hi> Questions.</item>
+               <item>
+                  <hi>26.</hi> An <hi>Epitome</hi> of the <hi>Mysterium Magnum.</hi>
+               </item>
+               <item>
+                  <hi>(27.)</hi> The <hi>Holy Weeks,</hi> or the <hi>Prayer-Booke.</hi>
+               </item>
+               <item>
+                  <hi>28.</hi> A Table of the Divine <hi>Manifestation,</hi> or an <hi>Exposition</hi> of the <hi>Threefold World</hi> to <hi>I. S, V. S.</hi>and <hi>A. V. F.</hi>
+               </item>
+            </list>
+            <p>In these two that follow, the date of the yeare is not set downe.</p>
+            <list>
+               <item>
+                  <hi>29.</hi> A Booke of the Errours of the Sects of <hi>Ezechiel Meths</hi> to <hi>A. P. A.</hi> or an Apology to <hi>Esaias Steefell.</hi>
+               </item>
+               <item>
+                  <hi>30.</hi> A Booke of <hi>The last Judgement.</hi>
+               </item>
+            </list>
+            <p>Further.</p>
+            <list>
+               <item>
+                  <hi>31.</hi> Certaine Letters to divers Persons, written at divers times with certaine Key's for some bidden words.</item>
+               <item>The Bookes which the <hi>Author</hi> finished not, are marked with this signe ()</item>
+            </list>
+            <p>Herewith he hath left so noble and pretious a Trea<g ref="char:EOLhyphen"/>sure and Talent for the setting forth of Gods honour, and to promote mans salvation, for the present as well as for the future times, that from the Apostles Times hither<g ref="char:EOLhyphen"/>to higher and deeper grounded Mysteries of the Deity have scarce been revealed. He had conversation and ac<g ref="char:EOLhyphen"/>quaintance for the most part with Godly learned Men
+<pb facs="tcp:196473:4"/>and such as were experienced in <hi>Nature;</hi> with whom as also with some of the <hi>Nobility</hi> of <hi>Lusatia</hi> and <hi>Silesia,</hi> he conversed in all feare of God: Although some com<g ref="char:EOLhyphen"/>mon <hi>Preachers</hi> after their usuall Custome ceased not, continually to vomit out their venome and malice a<g ref="char:EOLhyphen"/>gainst his writings, and to slander him with all manner of scandall and calumny among the rude and foolish people: Yet the Truth liveth still and hath overcome, and shall at last Triumph in secret.</p>
+            <p>But he the blessed <hi>Jacob Boehmen Teutonicus,</hi> at <hi>Gor<g ref="char:EOLhyphen"/>litz</hi> in his house lying at the water-side of <hi>Nise; Anno</hi> 1624. the eighteenth day of <hi>November, stilo novo,</hi> about six of the clock in the morning, the twenty-fourth Sun<g ref="char:EOLhyphen"/>day after Trinity, after he had heard an exceeding sweet <hi>Musick,</hi> without his Chamber, and refreshed himselfe with the Holy use of the <hi>Testament</hi> of Christ at his Supper, praying and weeping with his sonnes and some good friends, with these last comfortable words <hi>Now goe I hence into Paradise,</hi> gently sighing, blessedly depar<g ref="char:EOLhyphen"/>ted in the fiftyeth yeare of his age.</p>
+            <p>After the funerall Sermon was done he was buried in the Church-yard at <hi>Gorlitz,</hi> and upon the Grave was a woodden Crosse set up, on which was pourtrayed a Mysticall three-fold Figure, <hi>viz.</hi>
+            </p>
+            <list>
+               <item>An Eagle with a Lilly-Twigge.</item>
+               <item>A Lyon with a Sword.</item>
+               <item>A Lamb with a Mitre.</item>
+            </list>
+            <p>The Superscription on the Crosse was this,
+<q xml:lang="ger">Ʋ. H. I. L. I. C. I. Ʋ.</q>
+            </p>
+            <p>That is,
+<q xml:lang="ger">Ʋnser Heil Im Leben Iesu Christi In Ʋns.</q>
+            </p>
+            <p>In English thus:
+<q>
+                  <hi>Our Salvation</hi> is <hi>In</hi> the <hi>Life</hi> of <hi>Iesus Christ In Ʋs.</hi>
+               </q>
+            </p>
+            <pb facs="tcp:196473:4"/>
+            <p> Which was <hi>Jacob Boehmens Motto,</hi> or usuall Speech and superscription in Letters, also,<lb/>
+               <q>Borne of God.<lb/> Dead in Christ.<lb/> Sealed with the Holy Ghost.<lb/> Resteth here Jacob Boehmen of old Seidenberg.</q>
+            </p>
+            <p>(Note 1. the Southerne Eagle which stood upon an high Rocke, and with one foot trod upon a Serpents head, and with the other held a Palme, received with its Beake a Lilly-Twigge reached out of the Sun.</p>
+            <p n="2">2. The Northern Lyon was Crowned and Signed with a Crosse, and bore before it in its right foot a fire-flaming Sword, and in its left a fiery-Heart, it stayed the Hough or hinder part of its right foot, upon a Cube or Square, and its left on a Globe or Ball.</p>
+            <p n="3">3. A Lamb with a Mitre walked quietly and simply between them both, in the meadowes and by the brooks of Grace.)</p>
+            <p>His seale or Impresse was a hand out of heaven with a Lilly-Twigge. In the memoriall Bookes of Good friends he used to write these Rymes.
+<q xml:lang="ger">
+                  <l>Weme Zeit ist wie Ewigkeit,</l>
+                  <l>Ʋnd Ewigkeit wie die Zeit,</l>
+                  <l>Der ist be freit von allem streit.</l>
+               </q> Englished
+<q>
+                  <l>To whom Time is as Eternity.</l>
+                  <l>And Eternity as Time,</l>
+                  <l>He is freed from all strife.</l>
+               </q>
+            </p>
+            <p>The Stature of his outward Body was almost of no Personage, his person was little and leane, with browes somewhat inbowed, high Temples, somewhat hauk<g ref="char:EOLhyphen"/>nosed; His Eyes were gray and somewhat <hi>Heaven-blew</hi> and otherwise as the <hi>Windowes</hi> in <hi>Solomons Temple,</hi> he had a thin Beard: a Smale low voyce: his speech was lovely. He was modest in his behaviour, humble in his conversation and meeke of Heart. His spirit highly en<g ref="char:EOLhyphen"/>lightned
+<pb facs="tcp:196473:5"/>by God, as is to be seene and discerned, in the <hi>Divine Light,</hi> out of his writings.</p>
+            <p>This that followeth was taken out of a Note of M. C. touch<g ref="char:EOLhyphen"/>ing what happened at the End or departure of Jacob Boehmen.</p>
+            <q>
+               <p>On Sunday the eighteenth of <hi>November,</hi> betimes in the morning he called his sonne <hi>Tobias,</hi> and asked if he also heard that <hi>Excellent Musick,</hi> he said no, then he bad that the door should be opened, that that musick might be the better heard. Afterwards he asked what a clock it was, being answered that it had strucke <hi>Two;</hi> he said it is not yet my time, <hi>Three</hi> howers hence is my time: In the meane while he spake these words once.</p>
+               <p>
+                  <hi>O thou strong God of Hoasts deliver mee according to thy will. O thou Crucified Lord Jesus have mercy upon mee and receive mee into thy Kingdome.</hi>
+               </p>
+               <p>When it was neere about <hi>Six</hi> of the clock, he tooke his leave of his wife and sonnes, blessed them, and said moreover, <hi>Now goe I hence into Paradise;</hi> spake to his sonne to turne him about, and he sighed deeply, and so mildly and quietly departed from this world.</p>
+            </q>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
